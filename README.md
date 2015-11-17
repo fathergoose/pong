@@ -1,0 +1,1 @@
+Working through the code example at https://robots.thoughtbot.com/pong-clone-in-javascript
